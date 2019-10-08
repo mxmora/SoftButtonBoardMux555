@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# ADG884BRMZ
+#
+DEF ADG884BRMZ U 0 40 Y Y 1 L N
+F0 "U" -198 676 50 H V L BNN
+F1 "ADG884BRMZ" -313 -914 50 H V L BNN
+F2 "SOP50P490X110-10N" 0 0 50 H I L BNN
+F3 "ADG884BRMZ-ND" 0 0 50 H I L BNN
+F4 "Analog Devices" 0 0 50 H I L BNN
+F5 "Analog Switch Dual SPDT 10-Pin MSOP Tube" 0 0 50 H I L BNN
+F6 "https://www.digikey.com/product-detail/en/analog-devices-inc/ADG884BRMZ/ADG884BRMZ-ND/997614?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+F7 "MSOP-10 Analog Devices" 0 0 50 H I L BNN
+F8 "ADG884BRMZ" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 16 -500 600 -500 -800 N
+P 2 0 0 16 -500 -800 500 -800 N
+P 2 0 0 16 500 -800 500 600 N
+P 2 0 0 16 500 600 -500 600 N
+X VDD 1 -700 400 200 R 40 40 0 0 W 
+X IN1 4 -700 200 200 R 40 40 0 0 I 
+X IN2 8 -700 100 200 R 40 40 0 0 I 
+X S1A 2 -700 -100 200 R 40 40 0 0 B 
+X S1B 5 -700 -200 200 R 40 40 0 0 B 
+X S2A 10 -700 -300 200 R 40 40 0 0 B 
+X S2B 7 -700 -400 200 R 40 40 0 0 B 
+X GND 6 -700 -600 200 R 40 40 0 0 P 
+X D1 3 700 400 200 L 40 40 0 0 B 
+X D2 9 700 300 200 L 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library

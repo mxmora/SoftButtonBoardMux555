@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name SF17020F-0302-21R-L-015)(type Legacy)(uri ${KIPRJMOD}/LIB_SF17020F-0302-21R-L-015/SF17020F-0302-21R-L-015.mod)(options "")(descr ""))
+  (lib (name ADG884BRMZ)(type Legacy)(uri ${KIPRJMOD}/ADG884BRMZ/ADG884BRMZ.mod)(options "")(descr ""))
+  (lib (name TPSC475K035R0600)(type KiCad)(uri "${KIPRJMOD}/UL_ TPSC475K035R0600/KiCAD/2019-09-22_22-37-23/footprints.pretty")(options "")(descr ""))
+)

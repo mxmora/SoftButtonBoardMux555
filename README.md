@@ -1,1 +1,2 @@
-# SoftButtonBoardMux555
+# ButtonBoard
+Board for Footswitch
